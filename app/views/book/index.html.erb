@@ -1,1 +1,21 @@
-<h1>Teste</h1>
+<table id="bookTable">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Ano Edição</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <% @books.each do |book|%>
+            <tr>
+                <td><%= book.id%></td>
+                <td><%= book.title%></td>
+                <td><%= book.author%></td>
+                <td><%= book.editionyear%></td>
+            </tr>
+        <%end%>   
+    </tbody>
+</table>
