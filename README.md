@@ -10,6 +10,6 @@ Utilizando as versões;
 Foi utilizado a estrutura Rails para criacao do projeto, do controle e modelo. A ordenação dos dados foi utilizado datatable, deixando a parte de ordenação no cliente.
 
 Links úteis:
-https://rubyonrails.org/ \n
-https://www.ruby-lang.org/pt/ \n
+https://rubyonrails.org/ 
+https://www.ruby-lang.org/pt/
 https://datatables.net/
