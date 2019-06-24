@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>Configurações a serem utilizadas no projeto.</h1>
 
-Things you may want to cover:
+Utilizando as versões;
+* Ruby 2.6.3
+* Rails 6.0.0
+* Data Table 1.10.19
 
-* Ruby version
+Foi utilizado a estrutura Rails para criacao do projeto, do controle e modelo. A ordenação dos dados foi utilizado datatable, deixando a parte de ordenação no cliente.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Links úteis:
+https://rubyonrails.org/ 
+https://www.ruby-lang.org/pt/
+https://datatables.net/
